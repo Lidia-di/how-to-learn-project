@@ -16,6 +16,6 @@ The information is collected in an intuitive, minimalistic way, you can find her
 
 Perhaps I will also add a feedback form to the page through which users can submit their comments.
 
-* [Look at my second trainig project](https://lidia-di.github.io/how-to-learn-project/)
+* [Look at my second training project](https://lidia-di.github.io/how-to-learn-project/)
 
 Thank you for attention!
