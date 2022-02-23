@@ -1,13 +1,21 @@
-Проектная работа №2: Научиться учиться.
+# Project №2: How to learn.
 
-Проект представляет собой лендинг, разбитый на несколько секций.
-Страница посвящена теме обучения, а каждая секция раскрывает ее отдельный аспект. 
-Информация собрана в интуитивно-понятном, минималистичном виде, а так же здесь размещены ссылки на полезные обучающие ресурсы и не только.
+**Description**
 
-Файловая структура проекта выполнена по правилам Nested БЭМ. Отдельно хочется отметить пользу Hotkey -bash - незаменимый инструмент, о котором я узнала в процессе обучения в Практикуме. 
-Секции сверстаны с применением flexbox и абсолютного позиционирования.
-Добавлены элементы анимации и API YouTube. Для решения этих задач я использовала keyframes и iframe.
-Интерактивный дизайн ссылок выполнен с помощью псевдоклассов.
+This is a training project representing my skills in landing pages develop.
 
-После успешной сдачи проекта, планирую настроить кроссбраузерность iframe YouTube с помощью ресурса caniuse.com, дописать вендорные префиксы, чтобы страница была универсальной для большего числа устройств.
-Возможно я также дополню страницу формой обратной связи, через которую пользователи смогут отправлять свои комментарии.
+Page divided into several sections each reveals its separate aspect.
+The information is collected in an intuitive, minimalistic way, you can find here useful links, learning resources and more.
+
+### Used technologes:
+* The file structure is made according to the rules of Nested BEM
+* The sections are laid out using flexbox, absolute positioning
+* The animation realised by pseudo-classes and keyframes 
+* YouTube API and iframes
+* Vendor prefixes so that the page is universal for different devices
+
+Perhaps I will also add a feedback form to the page through which users can submit their comments.
+
+* [Look at my second trainig project](https://lidia-di.github.io/how-to-learn-project/)
+
+Thank you for attention!
