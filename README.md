@@ -1,7 +1,7 @@
 # Project №2: How to learn.
 
-### Used technologes:
-* The file structure is made according to the rules of Nested BEM
+### Used technologies:
+* The file structure is created according to the rules of Nested BEM
 * The sections are laid out using flexbox, absolute positioning
 * The animation realised by pseudo-classes and keyframes 
 * YouTube API and iframes
